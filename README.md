@@ -29,8 +29,6 @@ The [API reference](https://atom.io/docs/api) for developing packages is also do
 
 ### macOS
 
-Download the latest [Atom release](https://github.com/atom/atom/releases/latest).
-
 Atom will automatically update when a new release is available.
 
 ### Windows
@@ -73,13 +71,3 @@ repeat these steps to upgrade to future releases.
 * [Linux](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-linux)
 * [macOS](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-mac)
 * [Windows](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-windows)
-
-## Discussion
-
-* Discuss Atom on [GitHub Discussions](https://github.com/atom/atom/discussions)
-
-## License
-
-[MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
-
-When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
